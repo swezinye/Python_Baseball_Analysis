@@ -8,7 +8,7 @@ The script reads a raw baseball dataset, cleans it, engineers new metrics, and c
 ## 📁 Project Structure
 
 ```text
-Project7_Baseball_Analysis/
+Baseball_Analysis/
 │── src/
 │   ├── bbanalyze.py          # Main analysis function
 │   └── test_bbanalyze.py     # Optional test script / examples
