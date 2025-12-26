@@ -1,4 +1,4 @@
-Data Science & Software Engineering Portfolio
+Technical-Data-Analyst-Portfolio
 This portfolio represents a comprehensive collection of 10 Python-based projects. Each project demonstrates a core pillar of modern data science: mathematical modeling, software architecture, automated data engineering (ETL), cloud API integration, and statistical visualization.
 
 ## 📑 Table of Contents
